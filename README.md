@@ -1,1 +1,2 @@
 # -Smart-UART-Log-Parser-in-Perl
+This Perl script is a UART (Universal Asynchronous Receiver-Transmitter) Log Parser that reads and processes log entries from a UART communication log file. It identifies and categorizes log messages into types such as DATA, ERROR, and CONTROL, while tracking message direction (sent/received) and timestamps. It uses an object-oriented approach with a custom LogEntry class to encapsulate each parsed log line and provides summary statistics like total entries, errors, and communication flow.
