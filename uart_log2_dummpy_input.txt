@@ -1,0 +1,10 @@
+[12:00:01] DATA: Received byte 0xA5
+[12:00:02] CONTROL: RTS set to HIGH
+[12:00:03] ERROR: Framing error
+[12:00:04] DATA: Sent byte 0x3F
+[12:00:05] ERROR: Buffer overflow
+[12:00:06] CONTROL: CTS cleared
+[12:00:07] DATA: Received byte 0x7E
+[12:00:08] DATA: Sent byte 0x4C
+[12:00:09] CONTROL: Baud rate changed to 9600
+[12:00:10] ERROR: Parity error detected

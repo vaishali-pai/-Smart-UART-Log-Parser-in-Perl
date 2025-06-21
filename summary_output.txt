@@ -1,0 +1,11 @@
+===== UART LOG SUMMARY =====
+Total entries: 10
+DATA messages: 4
+CONTROL messages: 3
+ERROR messages: 3
+
+Most recent ERROR:
+[12:00:10] ERROR: Parity error detected
+
+Bytes Sent: 2
+Bytes Received: 2
